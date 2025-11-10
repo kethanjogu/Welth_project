@@ -25,7 +25,11 @@ export default function RootLayout({ children }) {
 
           <footer className="bg-blue-50 py-12">
             <div className="container mx-auto px-4 text-center text-gray-600">
+HEAD
               <p>Made by Jogu sai kethan</p>
+
+              <p>Made By Jogu saikethan</p>
+               0437d91 (Added GitHub Actions workflow for Docker Hub push)
             </div>
           </footer>
         </body>

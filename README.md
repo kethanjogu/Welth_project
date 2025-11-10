@@ -1,4 +1,7 @@
+HEAD
 
+
+ 0437d91 (Added GitHub Actions workflow for Docker Hub push)
 
 ```
 DATABASE_URL=
